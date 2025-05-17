@@ -15,7 +15,7 @@ We benchmark three Linux scheduling policies (FIFO, RR, CFS) across three worklo
 ```bash
 # araçları kur
 ./setup_env.sh
-# (isteğe bağlı) Python paketlerini kur
+# Python paketlerini kur
 pip install -r requirements.txt
 # çalıştırma izinlerini ver
 chmod +x run_experiments.sh analyze_results.py
