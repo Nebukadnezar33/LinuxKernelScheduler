@@ -1,0 +1,7 @@
+# sonuç klasörü
+results/
+# Python cache
+__pycache__/
+*.py[cod]
+# grafik çıktıları
+*.png
